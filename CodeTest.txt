@@ -1,2 +1,10 @@
 TestFirstCode
 Testing the code for devops - learning the Git 
+#Git Command
+1-git clone <URL> ---->Used for first time took the code from server(here Github)to client(here Vscode)
+2-git status---->verify the status of file
+3-git add .----->Here we used "." means adding the all the modified file in stagging
+4-git commit -m "Message" -->   Onece the code available in staging then we are moving it in local repository using commit
+5-git config --global user.email "abc55@gmai.com" -->Seting useremail(One time activity)
+6-git config --global user.name  "abc55"  -->Seting the username(one time activity)
+7-git push <URL>
